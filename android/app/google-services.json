@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "397332792372",
+    "project_id": "temispecial-1034b",
+    "storage_bucket": "temispecial-1034b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397332792372:android:ea6f00ee61a72be9137661",
+        "android_client_info": {
+          "package_name": "com.temispecial.temi_special_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA347z3GMJCKTc5BMwHSl-3bi0kMuWkPtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
